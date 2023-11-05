@@ -1,6 +1,6 @@
 #!/usr/bin/env lua
 local json = require("cjson")
-local lfs = require("lfs") -- require the lfs library
+local lfs = require("lfs")
 
 local params = { ... }
 
